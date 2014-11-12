@@ -19,7 +19,7 @@ How to use it
 Simply add the JavaScript file to your folder and link to it:
 
 ```HTML
-<script src="maximify.js"></script>
+<script src="maxibear.js"></script>
 ```
 
 
